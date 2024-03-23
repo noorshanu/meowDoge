@@ -10,17 +10,17 @@ function Hero() {
 
             <div className=" max-w-2xl  py-8 px-4 rounded-3xl ">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
-         Welcome to ShibaSol, The playful blend of Solana's speed with the charm of Shiba Inus. 
+         Welcome to MeowDoge, The playful blend of Solana's speed with the charm of Shiba Inus. 
          </h1>
          
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/token/3RGn9YZKBDQoYmcFJGdYVqtHj9W22vrBu4fDpD78Ufjp"
+                  href="https://solscan.io/token/Cnhf4JpkH2C6AbuskJXusH2J57MHSV74WxFRsXEayvny"
                   target="_blank"
                   className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-lg font-bold "
                 >
                   {" "}
-                  Contract : 3RGn9YZKBDQoYmcFJGdYVqtHj9W22vrBu4fDpD78Ufjp
+                  Contract : Cnhf4JpkH2C6AbuskJXusH2J57MHSV74WxFRsXEayvny
                 </a>
               </div>
 
@@ -35,10 +35,10 @@ function Hero() {
                
             
                 <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="#" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/Meow_Doge_" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/shibasol0" className=" text-4xl">
+            <a target="_blank" href="https://t.me/meowdoges" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
