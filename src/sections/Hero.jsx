@@ -10,7 +10,7 @@ function Hero() {
 
             <div className=" max-w-2xl  py-8 px-4 rounded-3xl ">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
-         Welcome to MeowDoge, The playful blend of Solana's speed with the charm of Shiba Inus. 
+         Welcome to MeowDoge, it is bringing the purr-fect blend of memes, cuteness, and laughter to Solana world!
          </h1>
          
               <div className=" py-2">
