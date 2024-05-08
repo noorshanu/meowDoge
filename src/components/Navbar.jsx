@@ -17,7 +17,7 @@ function Navbar() {
           />
 
           <p className=" text-2xl font-bold font-groot-one text-[#000]">
-          MeowDoge
+          DogeMeow
           </p>
         </div>
 

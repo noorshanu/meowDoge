@@ -10,7 +10,7 @@ function Hero() {
 
             <div className=" max-w-2xl  py-8 px-4 rounded-3xl ">
             <h1 className="font-groot-one text-lg sm:text-3xl py-2 ">
-         Welcome to MeowDoge, it is bringing the purr-fect blend of memes, cuteness, and laughter to Solana world!
+         Welcome to DogeMeow, it is bringing the purr-fect blend of memes, cuteness, and laughter to Solana world!
          </h1>
          
               <div className=" py-2">
@@ -38,7 +38,7 @@ function Hero() {
             <a target="_blank" href="https://twitter.com/Meow_Doge_" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://t.me/meowdoges" className=" text-4xl">
+            <a target="_blank" href="https://t.me/DogeMeows" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>

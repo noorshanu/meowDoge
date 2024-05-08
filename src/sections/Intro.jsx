@@ -17,7 +17,7 @@ const Intro = () => {
           </div>
           <div className=" max-w-4xl sm:mt-0 text-center">
             <p className="font-semibold font-groot-one text-xl sm:text-3xl  text-[#000]  py-2">
-              About MeowDoge
+              About DogeMeow
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one  text-[#000]  font-medium">
               Ever wondered what happens when a cat and a Doge coin decide to
