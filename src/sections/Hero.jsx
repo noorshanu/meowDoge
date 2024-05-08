@@ -35,10 +35,10 @@ function Hero() {
                
             
                 <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/Meow_Doge_" className=" text-4xl">
+            <a target="_blank" href="https://twitter.com/DogeMeoww" className=" text-4xl">
               <FaTwitter fill="#000" />
             </a>
-            <a target="_blank" href="https://twitter.com/DogeMeoww" className=" text-4xl">
+            <a target="_blank" href="https://t.me/dogemeows" className=" text-4xl">
               <FaTelegram fill="#000" />
             </a>
           </div>
