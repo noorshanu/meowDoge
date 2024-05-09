@@ -15,18 +15,18 @@ function Hero() {
          
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/token/"
+                  href="https://solscan.io/token/8Xwjy7nMs9fpFbGpEKJ8aLm2NHSvBy4jbKbyL7d6cgv6"
                   target="_blank"
                   className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-lg font-bold "
                 >
                   {" "}
-                  Contract : Cnhf4JpkH2C6AdsfsdfsdfdxFRsXEayvny
+                  Contract : 8Xwjy7nMs9fpFbGpEKJ8aLm2NHSvBy4jbKbyL7d6cgv6
                 </a>
               </div>
 
               <div className="relative z-40 flex items-center justify-start my-4 max-sm:flex-col max-sm:space-y-4 sm:space-x-5">
               <a
-                  href="#"
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/2VumoXXSe4gTvFe4A88Z9TWLR2wn23MSfkPXz4WR7Gd7?t=1715233733552"
                   target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-xl bg-[#e18e4a] shadow-lg shadow-black/40 text-[#000000]  font-bold  border-[#000000] border-2"
                 >
