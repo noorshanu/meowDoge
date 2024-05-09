@@ -15,12 +15,12 @@ function Hero() {
          
               <div className=" py-2">
                 <a
-                  href="https://solscan.io/token/Cnhf4JpkH2C6AbuskJXusH2J57MHSV74WxFRsXEayvny"
+                  href="https://solscan.io/token/"
                   target="_blank"
                   className="my-2 font-groot-two flex justify-start text-xs  text-[#000000] sm:text-lg font-bold "
                 >
                   {" "}
-                  Contract : Cnhf4JpkH2C6AbuskJXusH2J57MHSV74WxFRsXEayvny
+                  Contract : Cnhf4JpkH2C6AdsfsdfsdfdxFRsXEayvny
                 </a>
               </div>
 
